@@ -1,0 +1,22 @@
+{
+  "name": "monkebot",
+  "version": "1.0.0",
+  "description": "awesome bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxilamano/MonkeBot.git"
+  },
+  "author": "maxilamano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxilamano/MonkeBot/issues"
+  },
+  "homepage": "https://github.com/maxilamano/MonkeBot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
